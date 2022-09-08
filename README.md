@@ -165,4 +165,4 @@ Sebbene in linea teorica l'algoritmo di Strassen dimostri la non ottimalità del
   <img src="https://latex.codecogs.com/svg.image?\mathbf{M}_1%2C\ldots%2C\mathbf{M}_7">
 </picture> richiede maggiore memoria, oltre al generare maggiore overhead per via dell'allocazione (e deallocazione) di tali matrici.
 
-Nella [relazione](https://github.com/Leyxargon/Strassen-GPU/blob/master/relazione.pdf) viene approfondito lo sviluppo di un algoritmo capace di mitigare le problematiche intrinseche dell'algoritmo di Strassen.
+Nella [relazione](./relazione.pdf) viene approfondito lo sviluppo di un algoritmo capace di mitigare le problematiche intrinseche dell'algoritmo di Strassen.
